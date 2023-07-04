@@ -4,6 +4,7 @@ Won 1st prize in Hackin' Summer
 <img width="714" alt="image" src="https://user-images.githubusercontent.com/75152108/220902354-6cb97dde-0ec6-4082-9755-af5698fa1626.png">
 
 Summer Training Internship Certificate
+
 <img width="326" alt="image" src="https://github.com/muskans06/Certificate/assets/75152108/fb6534e0-05a8-4f1c-87e4-617751b442e5">
 
 Google Cloud Program badges
